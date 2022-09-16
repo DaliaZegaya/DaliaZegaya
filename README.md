@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dalia Zegaya</h1>
 <h3 align="center">⚡A passionate & motivated Full Stack developer</h3>
 
-- 🔭 I’m currently working on **Soon**
+- 🔭 I’m currently working on store App
 
 - 🌱 I’m currently learning **Soon**
 
