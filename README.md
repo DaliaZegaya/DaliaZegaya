@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on store App
 
-- 🌱 I’m currently learning **Soon**
+- 🌱 I’m currently learning Node.js
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 💬 Ask me about **JavaScript, React, Node.js**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **daliazegaya56@gmail.con**
 
