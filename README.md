@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **daliazegaya56@gmail.con**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
