@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Node.js**
 
 - 📫 How to reach me **daliazegaya56@gmail.con**
 
