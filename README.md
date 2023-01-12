@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on mood tracker mern App
 
 - 🌱 I’m currently learning Node.js
-
+<!-- 
 - 👨‍💻 All of my projects are available at [soon](soon)
-
+ -->
 - 💬 Ask me about **JavaScript, React, Node.js**
 
 - 📫 How to reach me **daliazegaya56@gmail.con**
