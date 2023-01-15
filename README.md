@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on mood tracker mern app
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Docker
 <!-- 
 - 👨‍💻 All of my projects are available at [soon](soon)
  -->
