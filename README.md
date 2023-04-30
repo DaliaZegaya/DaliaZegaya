@@ -9,7 +9,7 @@
  -->
 - 💬 Ask me about **JavaScript, React, Node.js**
 
-- 📫 How to reach me **daliazegaya56@gmail.con**
+- 📫 How to reach me **daliazegaya56@gmail.com**
 
 <p align="left">
 </p>
